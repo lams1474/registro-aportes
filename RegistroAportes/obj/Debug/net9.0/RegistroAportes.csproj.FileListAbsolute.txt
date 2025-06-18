@@ -1,0 +1,14 @@
+D:\UEA2025\PRACTICO2025\RegistroAportes\bin\Debug\net9.0\RegistroAportes.exe
+D:\UEA2025\PRACTICO2025\RegistroAportes\bin\Debug\net9.0\RegistroAportes.deps.json
+D:\UEA2025\PRACTICO2025\RegistroAportes\bin\Debug\net9.0\RegistroAportes.runtimeconfig.json
+D:\UEA2025\PRACTICO2025\RegistroAportes\bin\Debug\net9.0\RegistroAportes.dll
+D:\UEA2025\PRACTICO2025\RegistroAportes\bin\Debug\net9.0\RegistroAportes.pdb
+D:\UEA2025\PRACTICO2025\RegistroAportes\obj\Debug\net9.0\RegistroAportes.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEA2025\PRACTICO2025\RegistroAportes\obj\Debug\net9.0\RegistroAportes.AssemblyInfoInputs.cache
+D:\UEA2025\PRACTICO2025\RegistroAportes\obj\Debug\net9.0\RegistroAportes.AssemblyInfo.cs
+D:\UEA2025\PRACTICO2025\RegistroAportes\obj\Debug\net9.0\RegistroAportes.csproj.CoreCompileInputs.cache
+D:\UEA2025\PRACTICO2025\RegistroAportes\obj\Debug\net9.0\RegistroAportes.dll
+D:\UEA2025\PRACTICO2025\RegistroAportes\obj\Debug\net9.0\refint\RegistroAportes.dll
+D:\UEA2025\PRACTICO2025\RegistroAportes\obj\Debug\net9.0\RegistroAportes.pdb
+D:\UEA2025\PRACTICO2025\RegistroAportes\obj\Debug\net9.0\RegistroAportes.genruntimeconfig.cache
+D:\UEA2025\PRACTICO2025\RegistroAportes\obj\Debug\net9.0\ref\RegistroAportes.dll
